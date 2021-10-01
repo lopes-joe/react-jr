@@ -1,0 +1,8 @@
+{
+  "name": "react-jr",
+  "version": "1.0.0",
+  "description": "An research resource for React learners",
+  "main": "index.js",
+  "author": "Joe Lopes",
+  "license": "MIT"
+}
